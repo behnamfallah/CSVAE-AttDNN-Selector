@@ -12,7 +12,7 @@ This repository hosts the source code for a novel hybrid framework integrating:
 ## Code Availability Status
 **Under Refactoring:** The codebase is currently being organized into a modular, object-oriented structure to ensure reproducibility.
 
-**Public Release:** The full source code will be released publicly upon the acceptance of the manuscript.
+**Public Release:** The full source code and associated datasets will be released publicly concurrent with the publication of the manuscript.
 
 ## Contact
 **For Reviewers:** If necessary for the review process, additional materials or early access can be requested through the **Journal Editor**.
