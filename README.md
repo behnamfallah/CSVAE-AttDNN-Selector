@@ -6,8 +6,8 @@ Interpretable AI for Multiphase Flow: Coupling CS-VAE for augmentation with Att-
 
 ## Overview
 This repository hosts the source code for a novel hybrid framework integrating:
-1.  **CS-VAE (Class-Stratified Variational Autoencoder):** A generative framework for data augmentation that effectively handles class imbalance while preserving complex data distributions.
-2.  **Att-DNN (Attention-based Deep Neural Network):** For interpretable feature selection and classification.
+ **CS-VAE (Class-Stratified Variational Autoencoder):**A generative framework for data augmentation that effectively handles class imbalance while preserving complex data distributions.
+ **Att-DNN (Attention-based Deep Neural Network):** For interpretable feature selection and classification.
 
 ## Code Availability Status
 **Under Refactoring:** The codebase is currently being organized into a modular, object-oriented structure to ensure reproducibility.
