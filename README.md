@@ -10,7 +10,7 @@ This repository hosts the source code for a novel hybrid framework integrating:
 2.  **Att-DNN (Attention-based Deep Neural Network):** For interpretable 			feature selection and classification.
 
 ## Code Availability Status
-**Under Refactoring:** The codebase is currently being organized into a modular, object-oriented structure to ensure reproducibility.
+**Under Refactoring:** The codebase is currently being organized into a modular, object-oriented structure to enhance readability and facilitate reproducibility.
 
 **Public Release:** The full source code and associated datasets will be released publicly concurrent with the publication of the manuscript.
 
